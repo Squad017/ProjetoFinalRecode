@@ -178,6 +178,111 @@ footer{
 
 footer h1 {
 
-    font-weight: 100;
+    font-weight: 500;
     font-size: 20px;
 }
+
+.OneQS{
+    background: url(../imagens/pexels-sathesh-d-698808.jpg);
+    background-size: cover;      
+    height: 300px;
+    
+    
+    
+    
+}
+
+.OneQS .row h1{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 10%;
+ 
+    
+}
+
+.twoQS h3{
+    color: #000000;
+    font-weight: 500;
+    text-align: center;
+}
+
+.twoQS p{
+    color: #000000;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+#ColunaVisao{
+    background-color:#FFCB46;
+   
+    
+}
+
+#ColunaVisao h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaVisao p {
+    font-size: 17px;   
+    font-weight: 400;
+    padding-top: 20px;
+    text-align: 
+
+}
+
+#ColunaCompetencias{
+    background-color:#8FFFF8;
+}
+
+#ColunaCompetencias h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaCompetencias p {
+    font-size: 17px;   
+    font-weight: 400;
+    padding-top: 20px;
+    text-align: 
+
+}
+#ColunaRecursos{
+    background-color:#C070FF;
+}
+
+#ColunaRecursos h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaRecursos p {
+    font-size: 17px;   
+    font-weight: 400;
+    padding-top: 20px;
+    
+
+}
+#ColunaInfraestrutura{
+    background-color:#FF8383;
+}
+
+#ColunaInfraestrutura h4 {
+    font-weight: 500;   
+
+}
+
+#ColunaInfraestrutura p {
+    font-size: 17px;   
+    font-weight: 400;
+    padding-top: 20px;
+    
+
+}
+
+
+
+
