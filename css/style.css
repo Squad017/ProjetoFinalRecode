@@ -228,7 +228,7 @@ footer h1 {
 
 #ColunaVisao p {
     font-size: 17px;   
-    font-weight: 400;
+    font-weight: 500;
     padding-top: 20px;
     text-align: 
 
@@ -245,7 +245,7 @@ footer h1 {
 
 #ColunaCompetencias p {
     font-size: 17px;   
-    font-weight: 400;
+    font-weight: 500;
     padding-top: 20px;
     text-align: 
 
@@ -261,7 +261,7 @@ footer h1 {
 
 #ColunaRecursos p {
     font-size: 17px;   
-    font-weight: 400;
+    font-weight: 500;
     padding-top: 20px;
     
 
@@ -277,12 +277,95 @@ footer h1 {
 
 #ColunaInfraestrutura p {
     font-size: 17px;   
-    font-weight: 400;
+    font-weight: 500;
     padding-top: 20px;
     
 
 }
 
+.fiveQS {
+    margin-top:5%;
+    
+}
 
+.fiveQS img{
+    width: 80%;
+    background-color: #6969695d;
+    padding:10%;
+    border-radius:50%;
+    align-items: center;
+    
+}
 
+.fiveQS h2{
+    font-weight: 800;
+    font-size: 20px;
+    
+}
 
+.fiveQS p{
+    font-weight:400;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.sixQS {
+    margin-top: 5%;
+    background-color: rgba(255, 255, 0, 0.253);
+    padding: 3%;
+    
+}
+
+.sixQS h2{
+    font-weight: 800;
+    font-size: 20px;
+    margin-top:20%;
+    
+}
+
+.sixQS p{
+    font-weight:500;
+    font-size: 20px;
+   
+    
+}
+
+.sixQS img{
+    width: 80%;
+    border-radius: 1%;  
+    
+
+}
+
+.sevenQS{
+    height:1vh;   
+    background-color: orange;
+}
+
+.eightQS {
+    
+    background-color: rgba(255, 255, 0, 0.253);
+    padding: 3%;
+    
+}
+
+.eightQS h2{
+    font-weight: 800;
+    font-size: 20px;
+    margin-top:20%;
+    
+}
+
+.eightQS p{
+    font-weight:500;
+    font-size: 20px;
+   
+    
+}
+
+.eightQS img{
+    width: 80%; 
+    border-radius: 1%;     
+
+}
